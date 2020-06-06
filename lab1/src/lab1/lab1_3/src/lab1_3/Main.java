@@ -1,0 +1,43 @@
+package lab1_3;
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		if (a<= 100) {
+			System.out.println("Your Score is A");
+		}
+		else if (a<= 94) {
+			System.out.println("Your Score is A-");
+		}
+		else if (a<= 89) {
+			System.out.println("Your Score is B+");
+		}
+		else if (a<= 84 || a>=80) {
+			System.out.println("Your Score is B");
+		}
+		else if (a<= 79 || a>=75) {
+			System.out.println("Your Score is C+");
+		}
+		else if (a<= 74 || a>=70) {
+			System.out.println("Your Score is C");
+		}
+		else if (a<= 69 || a>=65) {
+			System.out.println("Your Score is C-");
+		}
+		else if (a<= 64 || a>=60) {
+			System.out.println("Your Score is D");
+		}
+		else if (a<= 59 || a>= 50) {
+			System.out.println("Your Score is E");
+		}
+		else if (a<= 49 || a>=0) {
+			System.out.println("Your Score is F");
+		}
+		else 
+			System.out.println("Error");
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/sauledosymbekova/Documents/workspace/lab1/src/lab1/.metadata/.plugins/org.eclipse.jdt.core
+2699768384.index
+971138042.index
+1152386220.index
+2810639961.index
+3622568662.index
+1049602019.index

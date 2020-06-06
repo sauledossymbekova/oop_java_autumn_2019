@@ -1,0 +1,5 @@
+package intranet;
+
+public abstract class user {
+
+}

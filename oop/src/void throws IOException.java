@@ -1,0 +1,5 @@
+/**
+*/
+class void throws IOException {
+}
+
